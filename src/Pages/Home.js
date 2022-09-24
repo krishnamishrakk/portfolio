@@ -2,7 +2,7 @@ import React from 'react'
 import './pagesCss/Home.css'
 //import krish from '../Image/krish.pdf'
 import krishna from '../Image/krishna.jpeg'
-import resume1 from "../Image/resume1.pdf"
+import krishnamishracv from "../Image/krishnamishracv.pdf"
 const Home = () => {
   return (
     <div className='Home'>
@@ -18,7 +18,7 @@ const Home = () => {
             <h1>FULLSTACK DEVELOPER</h1>
             <h2>I build things for web</h2>
             </section><br /><br />
-            {<button><a href={resume1} download={resume1}>Download Resume</a></button> }
+            {<button><a href={krishnamishracv} download={krishnamishracv}>Download Resume</a></button> }
       
 
         </div>

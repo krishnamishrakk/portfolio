@@ -11,6 +11,8 @@ const Contact = () => {
       <h1><a href="https://github.com/krishnamishrakk">Github</a></h1>
       <h1><a href="https://instagram.com/krishna_mishra__kk">Instagram</a></h1>
       
+      
+      
     </div>
   )
 }
